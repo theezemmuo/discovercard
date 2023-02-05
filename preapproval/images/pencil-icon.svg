@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="17px" viewBox="0 0 18 17" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Icon / Utility / Tooltip / Default</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Text-Field-/-Prefilled-/-Default" transform="translate(-241.000000, -16.000000)" fill="#B2B3B5">
+            <g id="Icon-/-Utility-/-Edit-2" transform="translate(241.000000, 15.000000)">
+                <g id="Shape">
+                    <path d="M13.44,2.8125 L14.76,1.575 C15.48,0.9 16.68,0.9 17.4,1.575 C18,2.25 18,3.375 17.28,4.05 L15.96,5.2875 L13.44,2.8125 Z M1.32,14.175 L11.64,4.5 L12.24,5.0625 L14.16,6.8625 L3.84,16.5375 L0,17.775 L1.32,14.175 Z" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

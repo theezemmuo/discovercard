@@ -1,0 +1,17 @@
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="18" height="18">
+    <defs>
+        <style>.cls-1{fill:#ebd22f;}.cls-2{fill:#303030;}</style>
+    </defs>
+    <title>Artboard 1</title>
+    <g id="Symbols">
+        <g id="Alert_Icons_Warning-Yellow">
+            <circle id="Oval-4" class="cls-1" cx="15" cy="15" r="15"/>
+            <g id="I">
+                <path id="Fill-4-Copy" class="cls-2"
+                      d="M13.3,12.5v4.2a1.83,1.83,0,0,0,1.7,2,1.71,1.71,0,0,0,1.7-1.8V8.1A1.77,1.77,0,0,0,15,6.3a1.74,1.74,0,0,0-1.7,1.9v4.3Z"/>
+                <path id="Fill-6-Copy" class="cls-2"
+                      d="M15,21.3A1.58,1.58,0,0,0,13.3,23,1.58,1.58,0,0,0,15,24.7,1.58,1.58,0,0,0,16.7,23,1.58,1.58,0,0,0,15,21.3Z"/>
+            </g>
+        </g>
+    </g>
+</svg>
